@@ -9,6 +9,7 @@ google-ID: 'G-G1JD2R3080'
 menu:
 - {name: 'arXiv', url: 'arxiv'}
 - {name: 'Essay', url: 'essay'}
+- {name: 'Photography', url: 'photography'}
 - {name: 'About', url: 'about'}
 - {name: 'Contact', url: 'contact'}
 
