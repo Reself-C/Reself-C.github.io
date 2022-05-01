@@ -8,15 +8,18 @@ google-ID: 'G-G1JD2R3080'
 
 menu:
 - {name: 'arXiv', url: 'arxiv'}
+- {name: 'Essay', url: 'essay'}
 - {name: 'About', url: 'about'}
 - {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-# - {icon: 'twitter', link:    'https://twitter.com/paululele'}
+- {icon: 'twitter', link:    'https://twitter.com/Reself_C'}
 # - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 # - {icon: 'instagram', link:  'https://instagram.com/paululele'}
-# - {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
+- {icon: 'envelope', link:   'reselfchai@gmail.com'}
+- {icon: 'github', link: 'https://github.com/Reself-C'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/wenhao-chai-658274238/'}
 # - {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
