@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "不同层次的语义融合 | Human Action Recognition 论文阅读笔记"
 author: "Reself"
 categories: arXiv

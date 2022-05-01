@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: " 根据不确定性优化多任务权重 | Multi-Task Learning 论文阅读笔记"
 author: "Reself"
 categories: arXiv
