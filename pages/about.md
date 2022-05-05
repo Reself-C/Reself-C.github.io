@@ -18,4 +18,4 @@ I am a junior undergraduate student at Zhejiang University and the University of
 
 In terms of research, my interests are mainly in `Computer Vision`, which is an important area under artificial intelligence and deep learning. Specifically, I am involved in the `3D Human Pose Estimation`, `Multimodal Learning`, `Video Object Segmentation`, `Domain Adaptation`, `Human Action Recognition`, and other aspects of it.
 
-In other respects, I am a photography enthusiast, but a novice. For life, I used to write some essays in Chinese to express my attitude. I am full of desire and romance in life, even if I am very busy, I will still go and insist on finishing what I want to do.
+In other respects, I am a photography enthusiast, but a novice. For life, I used to write some essays in Chinese to express my attitude. I am full of desire and romance in life, even if I am very busy, I will still go and insist on finishing what I want to do. I am single now, but willing to chase the ideal love.

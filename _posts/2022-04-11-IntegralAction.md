@@ -15,7 +15,7 @@ image: IntegralAction/pipeline.png
 
 大多当前的动作识别方法直接依赖于RGB视频的输入(appearance)；也有部分首先使用姿态预测(pose)，再将人体姿态作为输入训练分类网络形成two-stage的方法。然而，直接融合这两种思路存在一定的困难，联合训练具有appearance和pose的模型最终会产生很强的appearance bias，并且不能很好地泛化到新的domain。因此，本文提出由pose驱动的动作识别网络，其核心是将pose这一高级语义作为辅助信号，使用门控单元控制appearance和pose两个stream的融合权重，最终效果达到了SOTA。
 
-![](../images/IntegralAction/arch.png)
+![](../assets/img/IntegralAction/arch.png)
 
 在appearance stream中，作者使用Resnet作为backbone，结合temporal shift module (TSM)来提取特征。TSM将在之后的笔记中详细叙述。在pose stream中，作者直接使用已有的2D姿态估计网络。在fusion前，两个stream都是独立pre-train过的，而在fusion时，两个预训练好的模型被冻结。fusion时，只使用pose feature去产生门控矩阵，并且是一种soft的权重，然后直接对两个stream分别做element-wise product并且相加，最终得到融合的feature。
 
