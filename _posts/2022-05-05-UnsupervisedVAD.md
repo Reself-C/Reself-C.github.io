@@ -3,11 +3,15 @@ layout: post
 title: "CVPR 2022 | GCL: 生成协作学习无监督视频异常检测"
 author: "Reself"
 categories: arXiv
-tags: [action recognition,video understanding]
+tags: [unsupervised,action recognition,video understanding]
 image: UnsupervisedVAD/overview.png
 ---
 
 ![](../assets/img/UnsupervisedVAD/title.png)
+
+[CVPR 2022] Generative Cooperative Learning for Unsupervised Video Anomaly Detection
+
+link：https://arxiv.org/abs/2203.03962
 
 ## Introduction
 
