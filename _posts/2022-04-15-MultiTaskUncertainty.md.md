@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " 根据不确定性优化多任务权重 | Multi-Task Learning 论文阅读笔记"
+title: "CVPR 2018 | 根据不确定性优化多任务学习权重"
 author: "Reself"
 categories: arXiv
 tags: [multi-task learning]

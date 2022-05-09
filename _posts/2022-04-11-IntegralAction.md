@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "不同层次的语义融合 | Human Action Recognition 论文阅读笔记"
+title: "CVPR 2021 | IntegralAction: 不同层次的语义融合"
 author: "Reself"
 categories: arXiv
 tags: [multimodal,action recognition]

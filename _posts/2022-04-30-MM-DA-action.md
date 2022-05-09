@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "捕捉模态间的联系 | Human Action Recognition 论文阅读笔记"
+title: "CVPR 2020 | 捕捉模态间的联系"
 author: "Reself"
 categories: arXiv
 tags: [multimodal,domain adaptation,action recognition]

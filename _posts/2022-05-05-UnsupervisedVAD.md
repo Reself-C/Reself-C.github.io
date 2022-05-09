@@ -9,9 +9,9 @@ image: UnsupervisedVAD/overview.png
 
 ![](../assets/img/UnsupervisedVAD/title.png)
 
-[CVPR 2022] Generative Cooperative Learning for Unsupervised Video Anomaly Detection
+Title: Generative Cooperative Learning for Unsupervised Video Anomaly Detection
 
-link：https://arxiv.org/abs/2203.03962
+Link：https://arxiv.org/abs/2203.03962
 
 ## Introduction
 
