@@ -6,7 +6,7 @@ categories: arXiv
 tags: [conference]
 image: cvpr/logo.png
 ---
-![](../assets/img/photography/neworleans/IMG_7507.JPG)
+
 In most Chinese people's stereotypes, New Orleans is famous for its grilled chicken flavor. However, Cajun dishes and seafood, including gumbo, etouffee, crawfish, oyster, gumbo, po'boy, and jambalaya, are the authentic signature indeed. Beyond delicacy, New Orleans was fought over by the United States, Britain, and France hundreds of years ago. Andrew Jackson became the 7th U.S. President partly because of this city, and there is a memorial square here.
 ![](../assets/img/photography/neworleans/IMG_E7528.JPG)
 
